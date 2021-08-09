@@ -54,7 +54,7 @@ def printem():
     
 
 prod = '' 
-driver = webdriver.Firefox(executable_path= "/Users/jegen/Downloads/geckodriver-v0.28.0-win64/geckodriver.exe")
+driver = webdriver.Firefox(executable_path= "/path/to/geckodriver.exe")
 
 top = Tk()
 L1 = Label(top, text="product name")
