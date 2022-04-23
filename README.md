@@ -1,2 +1,2 @@
 # autos
-auto search for phones (mostly) on some pages i chose 
+auto search for phone devices on pages of your liking
